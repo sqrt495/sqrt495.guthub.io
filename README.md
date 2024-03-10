@@ -8,4 +8,5 @@
 *Объектно-ориентированный Python (4 издание) // Стивен Ф. Лотт, Дастин Филлипс*
 
 Начну с рефакторинга кода для игры ["Висилеца"](https://github.com/sqrt495/OOP-python-learning/blob/main/Hangman.ipynb)
+<br>
 Идея взята из курса [Сергея Жукова](https://zhukovsd.github.io/python-backend-learning-course/)
