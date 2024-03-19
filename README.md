@@ -70,6 +70,6 @@
 
 *Существуют паттерны предметно-ориентированного проектирования, которые определяют способы интеграции и отношений между ограниченными контекстами. Эти паттерны определяются исходя из типа взаимодействия между командами, которые работают над ограниченными контекстами. Мы разделим паттерны на три группы, каждая из которых представляет тип командного взаимодействия: сотрудничество, заказчик-поставщик и раздельные пути.*
 <br>
-<img src="context_integrations_patterns" alt="context_integrations_patterns" width="400"/>
+<img src="context_integrations_patterns.png" alt="context_integrations_patterns" width="400"/>
 <br>
 **[What is Domain-Driven Design? // Сопоставление контекстов](https://systems.education/wis-ddd-context-mapping)**
