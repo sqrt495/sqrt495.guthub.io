@@ -72,7 +72,7 @@
 
 Решение:
 <br>
-<img src="uml_class_Dashboard" alt="uml_class_Dashboard" width="800"/>
+<img src="uml_class_Dashboard.png" alt="uml_class_Dashboard" width="800"/>
 <br>
 
 
