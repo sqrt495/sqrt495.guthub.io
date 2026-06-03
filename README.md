@@ -4,6 +4,11 @@
 Мотивцией послужило выгорание при работе над текущим проектом и желание погрузиться в изучение UML и python.<br>
 В процессе экспиремента так же считаю необходимым изучение [паттернов проектирования](https://github.com/pkolt/design_patterns?tab=readme-ov-file).
 
+
+метриалы на разбор:
+- https://github.com/HowProgrammingWorks/Index/blob/master/Courses/OOP.md  
+
+
 # Оглавление
 - [Глава 1. Погружение в ООП](#dive_to_oop)
 - [1.1.1 Фасад](facade)
